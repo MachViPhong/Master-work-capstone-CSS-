@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "master-work"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "master-work"
+  }
+}
